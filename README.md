@@ -1,6 +1,6 @@
 # Wild-Animal-Cat-Dog-Face-Classification-Deep-Leaning
 
-Dataset link : https://drive.google.com/drive/folders/1-1DlwaC30_D85o852dKTi-kAQKbFOz8-?usp=sharing
+Dataset link : https://www.kaggle.com/andrewmvd/animal-faces
 
 This is a convolution neural network model which classifies that the given image is a cat face, dog face or wild animal face.
 
